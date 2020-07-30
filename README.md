@@ -2,7 +2,7 @@
 
 This subdoamin scanner is created by python.
 
-##installation
+## installation
 
 1.First install git using this command `pkg install git`
 
