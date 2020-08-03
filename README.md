@@ -12,4 +12,4 @@ This subdoamin scanner is created by python.
 
 4.Last step run this script `python subdomain_scanner.py `
 
-*for more information visit my youtube channel Technical Dangwal
+* for more information visit my youtube channel Technical Dangwal
